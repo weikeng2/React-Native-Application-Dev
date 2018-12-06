@@ -29,9 +29,7 @@ export default class HomeScreen extends React.Component {
           </View>
 
           <View style={styles.getStartedContainer}>
-
             <Text style={styles.getStartedText}>Welcome to CS 196 Web Hackerspace!</Text>
-
             <View style={[styles.codeHighlightContainer, styles.homeScreenFilename]}>
               <Text>Your assignment:</Text>
               <Text>Create your own app using React Native! (and post it to Github)</Text>
